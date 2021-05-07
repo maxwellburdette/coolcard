@@ -21,25 +21,37 @@ function App() {
 						</h3>
 						<ul className="sci">
 							<li>
-								<a href="https://www.twitter.com">
+								<a
+									href="http://maxwellburdette.netlify.app/"
+									rel="noopener noreferrer"
+									target="_blank"
+								>
 									<FontAwesomeIcon
 										className="icons"
-										icon={["fab", "twitter"]}
+										icon={["fas", "globe"]}
 										size="lg"
 									></FontAwesomeIcon>
 								</a>
 							</li>
 							<li>
-								<a href="https://www.facebook.com">
+								<a
+									href="https://github.com/maxwellburdette"
+									rel="noopener noreferrer"
+									target="_blank"
+								>
 									<FontAwesomeIcon
 										className="icons"
-										icon={["fab", "facebook-f"]}
+										icon={["fab", "github"]}
 										size="lg"
 									></FontAwesomeIcon>
 								</a>
 							</li>
 							<li>
-								<a href="https://www.linkedin.com">
+								<a
+									href="https://www.linkedin.com/in/maxwell-burdette-325432a6/"
+									rel="noopener noreferrer"
+									target="_blank"
+								>
 									<FontAwesomeIcon
 										className="icons"
 										icon={["fab", "linkedin-in"]}
